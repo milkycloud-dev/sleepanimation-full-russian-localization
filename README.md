@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" width="128" height="128" alt="SleepAnimation: Full Russian Localization icon"></p>
+
 <h1 align="center">SleepAnimation: Full Russian Localization</h1>
 
 <p align="center">
@@ -6,7 +8,9 @@
 </p>
 
 <p align="center">
-  <sub>Target: SleepAnimation v1.0.3.1 · License: MIT · Encoding: UTF-8</sub>
+  <a href="https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/actions/workflows/build.yml"><img src="https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/actions/workflows/build.yml/badge.svg" alt="Build"></a>
+  <a href="https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/releases/latest"><img src="https://img.shields.io/github/v/release/milkycloud-dev/sleepanimation-full-russian-localization" alt="Release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License: MIT"></a>
 </p>
 
 <p align="center">
@@ -26,12 +30,16 @@ It contains only configuration and text files to respect original author licensi
 
 ### Files
 
-- `config.yml`: Localized configuration with Russian comments and timing parameters.
+- `config.yml`: Localized configuration with Russian comments.
 
 ### Installation
 
-1. Copy `config.yml` into `plugins/SleepAnimation/config.yml`.
-2. For localized in-game broadcast messages, use the pre-built `-RU.jar` binary from releases.
+1. Copy `config.yml` into `plugins/SleepAnimation/`.
+2. Download pre-built `.jar` with bytecode-patched Russian broadcast messages from [Releases](https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/releases/latest).
+
+### Releases
+
+Pre-built ready-to-use binaries (`.jar` / `.zip`) are available for download in [Releases](https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/releases/latest).
 
 ### License
 
@@ -50,12 +58,16 @@ MIT License. Created by milkycloud-dev (2026).
 
 ### Файлы
 
-- `config.yml`: Локализованный конфигурационный файл с комментариями на русском языке.
+- `config.yml`: Локализованный конфигурационный файл с комментариями.
 
 ### Установка
 
-1. Скопируйте файл `config.yml` в папку `plugins/SleepAnimation/config.yml`.
-2. Для перевода оповещений в чате используйте готовую сборку `-RU.jar`.
+1. Скопируйте `config.yml` в `plugins/SleepAnimation/`.
+2. Скачайте готовую сборку `.jar` с русифицированными оповещениями из раздела [Releases](https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/releases/latest).
+
+### Релизы
+
+Готовые собранные бинарные пакеты (`.jar` / `.zip`) доступны для загрузки в разделе [Releases](https://github.com/milkycloud-dev/sleepanimation-full-russian-localization/releases/latest).
 
 ### Лицензия
 
